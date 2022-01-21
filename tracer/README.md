@@ -2,27 +2,27 @@
 
 [source](./TRACER.GEN.TXT)
 
-Een debugger voor MSX Basic. Het is een TSR, die in MemMan geladen kan worden. 
-Biedt oa:
+A debugger for MSX Basic. It is a TSR, which can be loaded into MemMan.
+Offers ao:
 - breakpoints (counting, conditional)
-- single steppen
-- variabelen checken
-- popup op scherm (dus scherm opmaak blijft bestaan)
+- single stepping
+- check variables
+- popup on screen (so screen layout remains)
 
 
-Beschreven op 
+Described on
 [Generation MSX](https://www.generation-msx.nl/software/mst/tracer/release/4825/).
 
-Genoemd in
-[MSX Computer Magazine nr. 54 – mei 1992](https://www.msxcomputermagazine.nl/archief/mcm-54/).
+Mentioned in
+[MSX Computer Magazine no. 54 – May 1992](https://www.msxcomputermagazine.nl/archief/mcm-54/).
 
-Getest in
-[MSX Computer Magazine nr. 55 – mei 1992](https://www.msxcomputermagazine.nl/archief/mcm-55/).
+Tested in
+[MSX Computer Magazine no. 55 – May 1992](https://www.msxcomputermagazine.nl/archief/mcm-55/).
 
 
-Omzetting is gedaan in Linux CLI met:
+Conversion is done in Linux CLI with:
 ```bash
-expand -t "14,40" 
-``` 
+expand -t "14.40"
+```
 
 [back](../README.md)

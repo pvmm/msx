@@ -2,12 +2,12 @@
 
 [source](./DSORT.GEN.TXT)
 
-Een utility om directories op floppy disk te sorteren.
+A utility to sort directories by floppy disk.
 
-Tabstops gebruikt: 8, 16, 24, 32
+Tab stops used: 8, 16, 24, 32
 
-Gepubliceerd in 
-[MSX Computer Magazine nr. 21 – apr 1988](https://msxcomputermagazine.nl/archief/mcm-21/).
+Published in
+[MSX Computer Magazine no. 21 – Apr 1988](https://msxcomputermagazine.nl/archief/mcm-21/).
 
 
 [back](../README.md)

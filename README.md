@@ -1,6 +1,8 @@
+# Original foreword by Robbert Wethmar 
+
 # MSX
-Deze repository bevat de sources en andere dingen die ik gemaakt hebt voor MSX tussen 1985 en ca. 1995.
-Veel ervan zijn gepubliceerd in
+This repository contains the sources and other stuff I made for MSX between 1985 and about 1995.
+Many of them have been published in
 [MSX Computer Magazine](https://msxcomputermagazine.nl/).
 
 ## Software
@@ -19,12 +21,12 @@ Veel ervan zijn gepubliceerd in
 
 
 ## Compiler
-De compiler die ik gebruikte was Hisoft Devpac 80 
-(zie [cpcwiki](http://www.cpcwiki.eu/index.php/Hisoft_Devpac_80) 
-of [Generation MSX](https://www.generation-msx.nl/software/hisoft/devpac80/2494/))
+The compiler I used was Hisoft Devpac 80
+(see [cpcwiki](http://www.cpcwiki.eu/index.php/Hisoft_Devpac_80)
+or [Generation MSX](https://www.generation-msx.nl/software/hisoft/devpac80/2494/))
 
-De tapstops stonden soms op rare plekken in de source (.GEN) files. Hier staat daarom ook altijd een .GEN.TXT
-file waarin de tabs omgezet zijn naar spaties.
+The tap stops were sometimes in strange places in the source (.GEN) files. This is why there is always a .GEN.TXT
+file in which the tabs are converted to spaces.
 
 
 ## Emulatoren

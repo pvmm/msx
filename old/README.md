@@ -2,15 +2,15 @@
 
 [source](./OLD.GEN.TXT)
 
-Een utility om Basic programma's terug te halen nadat per ongeluk een NEW commando gegen is.
+A utility for retrieving Basic programs after a NEW command has been accidentally received.
 
-Gepubliceerd in 
-[MS(X)DOS Computer Magazine nr. 25 – sep 1988](https://msxcomputermagazine.nl/archief/msxdos-25/).
+Published in
+[MS(X)DOS Computer Magazine No. 25 – Sep 1988](https://msxcomputermagazine.nl/archief/msxdos-25/).
 
 
-Omzetting is gedaan in Linux CLI met:
+Conversion is done in Linux CLI with:
 ```bash
-expand -t "8" 
-``` 
+expand -t "8"
+```
 
 [back](../README.md)

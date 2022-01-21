@@ -2,15 +2,15 @@
 
 [source](./FDATE.GEN.TXT)
 
-Een utility om vanuit DOS de filedatum anders in te stellen
+A utility to change the file date from DOS
 
-Gepubliceerd in 
-[MS(X)DOS Computer Magazine nr. 28 – sep 1988](https://msxcomputermagazine.nl/archief/msxdos-28/).
+Published in
+[MS(X)DOS Computer Magazine no. 28 – Sep 1988](https://msxcomputermagazine.nl/archief/msxdos-28/).
 
 
-Omzetting is gedaan in Linux CLI met:
+Conversion is done in Linux CLI with:
 ```bash
-expand -t "8" 
-``` 
+expand -t "8"
+```
 
 [back](../README.md)

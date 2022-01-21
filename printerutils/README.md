@@ -1,6 +1,6 @@
 # Printerutils
-Een paar utilities om printer in andere stand te zetten, vanaf MSXDOS prompt.
-Ik had een FAX-120 matrix printer, maar codes waren toen vermoed ik vrij standaard.
+A few utilities to reposition printer, from MSXDOS prompt.
+I had a FAX-120 dot matrix printer, but codes were pretty standard then I guess.
 
 - ACCPRT [source](./ACCPRT.GEN.TXT)
 - ELITE [source](./ELITE.GEN.TXT)
@@ -8,9 +8,9 @@ Ik had een FAX-120 matrix printer, maar codes waren toen vermoed ik vrij standaa
 - NLQON [source](./NLQOFF.GEN.TXT)
 - PICA [source](./PICA.GEN.TXT)
 
-Omzetting is gedaan in Linux CLI met:
+Conversion is done in Linux CLI with:
 ```bash
-expand -t "8" 
-``` 
+expand -t "8"
+```
 
 [back](../README.md)

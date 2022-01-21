@@ -2,12 +2,12 @@
 
 [source](./SW.GEN.TXT)
 
-Een stopwatch voor MSX
+A stopwatch for MSX
 
 
-Omzetting is gedaan in Linux CLI met:
+Conversion is done in Linux CLI with:
 ```bash
-expand -t "8" 
-``` 
+expand -t "8"
+```
 
 [back](../README.md)
